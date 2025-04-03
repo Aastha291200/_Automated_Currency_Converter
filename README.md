@@ -33,7 +33,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install flask requests
 
 ## Replace the API key:
-# Open app.py and replace the placeholder API key with your own from AnyAPI.
+### Open app.py and replace the placeholder API key with your own from AnyAPI.
 API_KEY = 'your_actual_api_key_here'
 
 ## Run the app:
