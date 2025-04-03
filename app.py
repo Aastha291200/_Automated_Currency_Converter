@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = '7dhb845riffcc5t1f077lud7jnu1cr818k23fakr486fonub46tcg'  # Replace with your actual API key
+API_KEY =  # Replace with your actual API key
 
 HTML_TEMPLATE = '''
 <!doctype html>
