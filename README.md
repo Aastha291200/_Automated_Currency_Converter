@@ -22,7 +22,7 @@ A simple web-based USD to INR currency converter built with Flask and powered by
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aastha291200/_Automated_Currency_Converter.git
+   git clone (https://github.com/AasthaKshatriya/_Automated_Currency_Converter).git
    cd automated_currency_converter
 
 ## Create a virtual environment (optional but recommended):
